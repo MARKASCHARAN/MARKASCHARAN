@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MARKA SAI CHARAN</h1>
-<h3 align="center">A Web Developer and ML Engineer</h3>
+<h3 align="center">Aspiring ML Engineer & Web Developer</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on My Portfolio Website.<br>🌱 I’m currently learning TS(TypeScript), MLOps.<br>👯 I’m looking to collaborate on ML & Web Development.<br>👨‍💻 All of my projects are available at www.markascharan.me<br>💬 Ask me about JavaScript, ReactJs, and Core ML.<br>📫 How to reach me markascharan@gmail.com
