@@ -15,10 +15,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=MARKASCHARAN&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MARKASCHARAN&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MARKASCHARAN&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 #  Holopin Badges
-![@markascharan's Holopin board](https://holopin.me/markascharan
+[![@markascharan's Holopin board](https://holopin.me/markascharan
 )]
-[@markascharan](https://www.holopin.io/@markascharan#)
+
 
 
 ## 🏆 GitHub Trophies
