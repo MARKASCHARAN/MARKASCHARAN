@@ -16,35 +16,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MARKASCHARAN&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MARKASCHARAN&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-# Badge Assertion
-
-This repository contains the details of a badge assertion issued on **October 16, 2024** for demonstrating proficiency with **APIs and Postman**.
-
-## Badge Assertion Details
-
-```json
-{
-  "type": "Assertion",
-  "id": "https://api.badgr.io/public/assertions/86MtTEOfTjW9pWQMkl0DNQ",
-  "@context": "https://w3id.org/openbadges/v2",
-  "recipient": {
-    "type": "email",
-    "salt": "diQw3syv10XNX6fV",
-    "hashed": true,
-    "identity": "sha256$8259812ade4efa3685e6181b8337ae7c3f3c9733dc378ff5813c9f077cb15d22"
-  },
-  "badge": "https://api.badgr.io/public/badges/G0U1YVeOSdGAiytb9Yw6_w",
-  "issuedOn": "2024-10-16T06:46:27.048Z",
-  "image": {
-    "id": "https://api.badgr.io/public/assertions/86MtTEOfTjW9pWQMkl0DNQ/image"
-  },
-  "narrative": "This badge was awarded for demonstrating proficiency with APIs and Postman by completing foundational tasks in Postman and passing all tests with a submitted Postman Collection",
-  "revoked": false,
-  "verification": {
-    "type": "HostedBadge"
-  }
-}
-
 
 # Holopin Badges
 
