@@ -16,10 +16,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MARKASCHARAN&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MARKASCHARAN&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@markascharan97/30-nites-of-code)  
-  ![@markascharan97 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=markascharan97)
-
 
 # Holopin Badges
 
