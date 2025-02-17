@@ -39,7 +39,7 @@
 # 🏆 Badges
 ### My Badgr Badge
 
-[![Postman API Fundamentals Student Expert](https://api.badgr.io/public/assertions/86MtTEOfTjW9pWQMkl0DNQ/image)](https://api.badgr.io/public/assertions/86MtTEOfTjW9pWQMkl0DNQ?identity__email=markascharan%40gmail.com)
+![Postman API Fundamentals Student Expert](https://api.badgr.io/public/assertions/86MtTEOfTjW9pWQMkl0DNQ/image)
 
 ### @markascharan's Holopin board
 
