@@ -35,3 +35,25 @@
 [![](https://visitcount.itsvg.in/api?id=MARKASCHARAN&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+{
+  "type": "Assertion",
+  "id": "https://api.badgr.io/public/assertions/86MtTEOfTjW9pWQMkl0DNQ",
+  "@context": "https://w3id.org/openbadges/v2",
+  "recipient": {
+    "type": "email",
+    "salt": "diQw3syv10XNX6fV",
+    "hashed": true,
+    "identity": "sha256$8259812ade4efa3685e6181b8337ae7c3f3c9733dc378ff5813c9f077cb15d22"
+  },
+  "badge": "https://api.badgr.io/public/badges/G0U1YVeOSdGAiytb9Yw6_w",
+  "issuedOn": "2024-10-16T06:46:27.048Z",
+  "image": {
+    "id": "https://api.badgr.io/public/assertions/86MtTEOfTjW9pWQMkl0DNQ/image"
+  },
+  "narrative": "This badge was awarded for demonstrating proficiency with APIs and Postman by completing foundational tasks in Postman and passing all tests with a submitted Postman Collection",
+  "revoked": false,
+  "verification": {
+    "type": "HostedBadge"
+  }
+}
