@@ -38,8 +38,7 @@
 
 # 🏆 Badges
 ### My Badgr Badge
-
-![Postman API Fundamentals Student Expert](https://api.badgr.io/public/assertions/86MtTEOfTjW9pWQMkl0DNQ/image)
+[![Credly Badge](https://images.credly.com/size/150x150/static/images/badge/badge_4d50f7b2-de56-49c0-8ce3-92affe89c1c5.png)](https://www.credly.com/badges/4d50f7b2-de56-49c0-8ce3-92affe89c1c5/public_url)
 
 ### @markascharan's Holopin board
 
