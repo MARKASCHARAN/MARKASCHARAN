@@ -36,8 +36,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MARKASCHARAN&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MARKASCHARAN&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-# 🏆 Badges
-### My Badgr Badge
+
 # 🏆 Badges
 <img src="assertion-86MtTEOfTjW9pWQMkl0DNQ.png" alt="My Badge" style="width: 150px; height: auto;"> <img src="aws-educate-introduction-to-generative-ai.png" alt="My Badge" style="width: 150px; height: auto;">
 
