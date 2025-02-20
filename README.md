@@ -38,7 +38,9 @@
 
 # 🏆 Badges
 ### My Badgr Badge
-[![Credly Badge](https://images.credly.com/size/150x150/static/images/badge/badge_4d50f7b2-de56-49c0-8ce3-92affe89c1c5.png)](https://www.credly.com/badges/4d50f7b2-de56-49c0-8ce3-92affe89c1c5/public_url)
+# 🏆 Badges
+<img src="assertion-86MtTEOfTjW9pWQMkl0DNQ.png" alt="My Badge" style="width: 150px; height: auto;"> <img src="aws-educate-introduction-to-generative-ai.png" alt="My Badge" style="width: 150px; height: auto;">
+
 
 ### @markascharan's Holopin board
 
