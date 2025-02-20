@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MARKA SAI CHARAN</h1>
-<h3 align="center">Aspiring ML Engineer & Web Developer</h3>
+<h3 align="center">Aspiring ML Engineer & Web3 Developer</h3>
 
 # 🌫 About Me:
 💪 I’m currently working on My Portfolio Website.<br>
