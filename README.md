@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MARKA SAI CHARAN</h1>
+<h1 align="center">Hi 👋, I'm MARKA CHARAN</h1>
 <h3 align="center">Aspiring ML Engineer & Web3 Developer</h3>
 
 # 🌫 About Me:
