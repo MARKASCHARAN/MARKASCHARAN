@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm MARKA CHARAN</h1>
-<h3 align="center">Aspiring ML Engineer & Web3 Developer</h3>
+<h3 align="center">Aspiring Web3 Developer</h3>
 
 # 🌫 About Me:
-🌱 I’m currently learning TS(TypeScript), Rust.<br>
+🌱 I’m currently learning TS(TypeScript).<br>
 👯 I’m looking to collaborate on web3.<br>
 👨‍💻 All of my projects are available at [www.markascharan.me](https://www.markascharan.me)<br>
 💬 Ask me about ReactJs, Web3, and Blockchain.<br>
@@ -38,13 +38,9 @@
 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MARKASCHARAN&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=MARKASCHARAN&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
