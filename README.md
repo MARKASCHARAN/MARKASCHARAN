@@ -34,7 +34,7 @@
 
 
 # 🏆 Badges
-<img src="assertion-86MtTEOfTjW9pWQMkl0DNQ.png" alt="My Badge" style="width: 170px; height: auto;"> <img src="aws-educate-introduction-to-generative-ai.png" alt="My Badge" style="width: 170px; height: auto;"> <img src="eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=.png" alt="My Badge" style="width: 170px; height: auto;"> <img src="level0-sloth-code-0-0-0-0.png" alt="My Badge" style="width: 170px; height: auto;"> <img src="level1-sloth-code-tumbler-0-0-0.png" alt="My Badge" style="width: 170px; height: auto;"> <img src="level2-sloth-code-tumbler-hoodie-0-0.png" alt="My Badge" style="width: 170px; height: auto;"> <img src="level3-sloth-code-tumbler-hoodie-tail-0.png" alt="My Badge" style="width: 170px; height: auto;">
+<img src="assertion-86MtTEOfTjW9pWQMkl0DNQ.png" alt="My Badge" style="width: 170px; height: auto;"> <img src="level3-sloth-code-tumbler-hoodie-tail-0.png" alt="My Badge" style="width: 170px; height: auto;">
 
 
 
