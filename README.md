@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MARKA CHARAN</h1>
-👨‍💻 All of my projects are available at [www.markascharan.me](https://www.markascharan.me)<br>
+👨‍💻 All of my projects are available at (https://www.markascharan.me)<br>
 📧 How to reach me markascharan@gmail.com
 
 ## 🌐 Socials:
