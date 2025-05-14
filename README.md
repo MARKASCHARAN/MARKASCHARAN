@@ -3,7 +3,8 @@
 
 ## 🌐 Socials:
 <h4>markascharan@gmail.com</h4>
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marka-s-charan-0a4a9727a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marka-s-charan-0a4a9727a/)
+
 
 # 🌊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MARKASCHARAN&theme=tokyonight&hide_border=true)<br/>
