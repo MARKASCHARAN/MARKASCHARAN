@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <h1 style="color:#0ff; text-shadow: 0 0 10px #0ff, 0 0 20px #0ff;">MARAKA CHARAN</h1>
+  <h1 style="color:#0ff; text-shadow: 0 0 10px #0ff, 0 0 20px #0ff;">MARKA CHARAN</h1>
   <h4 style="color:#fff; font-size:40px; font-weight:bold; text-shadow: 0 0 10px #0ff, 0 0 20px #0ff;">Software Developer</h4>
 
    <p>
